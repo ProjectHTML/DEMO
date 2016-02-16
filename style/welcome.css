@@ -1,0 +1,21 @@
+.welcome_room
+{
+	z-index: 0;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	position: absolute;
+	width: 324px;
+	height: 285px;
+	background-image: url(/style/album/welcome_room.png);
+}
+
+#word_1
+{
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	position: fixed;
+}
