@@ -1,0 +1,18 @@
+@font-face
+{
+    font-family: UbuntuNormal;
+    src: url(/style/Ubuntu.ttf);
+}
+
+body
+{
+	background-image: url(/style/body.png);
+	background-repeat: repeat;
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+*
+{
+	font-family: UbuntuNormal;
+}
